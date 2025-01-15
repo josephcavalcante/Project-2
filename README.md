@@ -1,4 +1,4 @@
-## Pythonando Project: Diary Project
+# Pythonando Project: Diary Project
 
 This is a Django-based web application for managing a personal diary. The project includes features for writing entries, viewing people, and navigating through the diary.
 
