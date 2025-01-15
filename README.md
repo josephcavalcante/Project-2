@@ -1,4 +1,4 @@
-# # Pythonando Project: Diary Project
+## Pythonando Project: Diary Project
 
 This is a Django-based web application for managing a personal diary. The project includes features for writing entries, viewing people, and navigating through the diary.
 
@@ -28,7 +28,8 @@ This is a Django-based web application for managing a personal diary. The projec
 
 3. Install the dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install django
+    pip install pillow
     ```
 
 4. Apply the migrations:
